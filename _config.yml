@@ -2,7 +2,13 @@ title: Isomer
 url: "https://www.isomer.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
-  documentation:
+  markdown:
+    output: true
+  getting-started:
+    output: true
+  page-components:
+    output: true
+  advanced-settings:
     output: true
 
 favicon: /images/favicon-isomer.ico

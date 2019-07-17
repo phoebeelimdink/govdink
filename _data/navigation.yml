@@ -7,8 +7,14 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: DOCUMENTATION
-    collection: documentation
+  - title: GETTING STARTED
+    collection: getting-started
+  - title: MARKDOWN
+    collection: markdown
+  - title: PAGE COMPONENTS
+    collection: page-components
+  - title: ADVANCED SETTINGS
+    collection: advanced-settings
   - title: FAQ
     url: /faq/
   - title: CONTACT US
