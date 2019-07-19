@@ -1,6 +1,6 @@
 ---
 title: Configuration
-permalink: /page-components/footer/configuration/
+permalink: /page-components/footer/config/
 third_nav_title: Footer
 ---
 ```yaml

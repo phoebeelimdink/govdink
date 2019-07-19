@@ -1,6 +1,6 @@
 ---
 title: Configuration
-permalink: /page-components/navbar/configuration/
+permalink: /page-components/navbar/config/
 third_nav_title: Navigation Bar
 ---
 ```yaml

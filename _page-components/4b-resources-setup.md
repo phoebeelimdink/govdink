@@ -3,7 +3,7 @@ title: Setup
 permalink: /page-components/resources/setup/
 third_nav_title: Resource Room
 ---
-If you have provided us with a sitemap, the setup of the resource room and its categories would have been completed for you. However, if you would like to create new categories or edit existing ones, then you should refer to the following instructions.
+If you have provided us with a sitemap, the setup of the resource room and its categories would have been completed for you. However, if you would like to create new categories or edit/rename existing ones, then you should refer to the following instructions.
 
 To create a resource room, first create a folder (without a preceding underscore in the folder name) that will contain the whole of your resource room. Within that folder, create the file `index.html`, and add the following content:
 
