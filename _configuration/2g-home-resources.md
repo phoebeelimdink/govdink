@@ -1,6 +1,6 @@
 ---
 title: Resource Room
-permalink: /page-components/home/resources/
+permalink: /configuration/home/resources/
 third_nav_title: Home Page
 ---
 The resource room is an Isomer functionality that allows you to easily publish posts periodically, such as speeches and media releases. The resource room section will automatically feature the 3 latests posts on the home page.

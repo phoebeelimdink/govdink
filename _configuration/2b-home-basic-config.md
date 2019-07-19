@@ -1,6 +1,6 @@
 ---
 title: Basic Configuration
-permalink: /page-components/home/basic-config/
+permalink: /configuration/home/basic-config/
 third_nav_title: Home Page
 ---
 The configuration of the home page all lies in what is known as the front matter (the YAML located between the set of triple dashes `---`). To get started, specify `layout: homepage` to let Isomer be aware that it is a home page instead of a normal page. This is required for the home page to work.
@@ -17,7 +17,7 @@ The options available are:
 
 * `sections`: a list of sections on the home page. Further details on the sections are covered in the following pages. You can refer to the sample configuration for the specific syntax of the configuration
 
-Sample configuration (without sections) of a home page:
+Partial sample configuration (without sections) of a home page:
 
 ```yml
 ---

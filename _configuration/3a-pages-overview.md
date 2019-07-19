@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /page-components/pages/overview/
+permalink: /configuration/pages/overview/
 third_nav_title: Content Pages
 ---
 Pages are the meat of your site. It is where you can talk about your agency and your work in detail, post media releases, and so on. The content of pages are written in Markdown which comes after the front matter.

@@ -1,9 +1,9 @@
 ---
 title: Information Section
-permalink: /page-components/home/infobar/
+permalink: /configuration/home/infobar/
 third_nav_title: Home Page
 ---
-The information section, or `infobar`, can be used to provide additional information to users, and also serves as another opportunity to direct users to pages of interest. The infobar does not support images - if you require images, use [`infopic`](/page-components/home/infopic/) instead.
+The information section, or `infobar`, can be used to provide additional information to users, and also serves as another opportunity to direct users to pages of interest. The infobar does not support images - if you require images, use [`infopic`](/configuration/home/infopic/) instead.
 
 The infobar consists of the following options:
 

@@ -1,11 +1,13 @@
 ---
 title: Second and Third Level Pages
-permalink: /page-components/pages/leftnav/
+permalink: /configuration/pages/leftnav/
 third_nav_title: Content Pages
 ---
 Often, you will have a series of pages that fall under a common subcategory. For example, this page is part of a collection of pages on Isomer configuration. Pages like this is where second and third level pages, also known as "leftnav pages", shine.
 
-Leftnav pages all fall under what is known as a [collection](https://jekyllrb.com/docs/collections/). Think of a collection as essentially a folder for your pages. The folder name must begin with an underscore (`_`), followed by the collection name. Similar to [permalinks](/page-components/pages/config/), a collection name should only consist of lower case letters, numbers, and dashes. The collection name will appear in the breadcrumbs on your leftnav page, with dashes (`-`) and underscores (`_`) in the collection name replaced by spaces. Just like all breadcrumbs on Isomer, they will appear in all caps.
+Leftnav pages all fall under what is known as a [collection](https://jekyllrb.com/docs/collections/). Think of a collection as essentially a folder for your pages. The folder name must begin with an underscore (`_`), followed by the collection name. Similar to [permalinks](/configuration/pages/config/), a collection name should only consist of lower case letters, numbers, and dashes. The collection name will appear in the breadcrumbs on your leftnav page, with dashes (`-`) and underscores (`_`) in the collection name replaced by spaces. Just like all breadcrumbs on Isomer, they will appear in all caps.
+
+> Note: Do not put spaces in file names or folder names. Always replace the spaces with dash (-)
 
 If you have given us a sitemap, this structure and configuration should have been configured for you. If not, you can create a new collection by creating the collection folder, then adding the following configuration in `_config.yml`:
 
@@ -27,7 +29,7 @@ collections:
     output: true
 ```
 
-Once the folder and configuration has been done, you can create and configure pages in the collection just like [normal pages](/page-components/pages/config/)! The items in the second level navigation bar on the left will be added automatically as you create new pages. For the second level navigation to appear on the main navigation bar at the top of the page, refer to the [navigation bar configuration](/page-components/navbar/overview/).
+Once the folder and configuration has been done, you can create and configure pages in the collection just like [normal pages](/configuration/pages/config/)! The items in the second level navigation bar on the left will be added automatically as you create new pages. For the second level navigation to appear on the main navigation bar at the top of the page, refer to the [navigation bar configuration](/configuration/navbar/overview/).
 
 The pages will appear in alphabetical order based on their Markdown file names. Hence, the file name of each Markdown file in a collection should be prefixed with a number such as `1-` for the first page in the collection, `2-` for the second page, and so on. If there are 10 or more items in the second level navigation, add a zero in front of the single digit numbers (i.e. `01-`, `02-`, ..., `10-`, `11-`, ...)
 

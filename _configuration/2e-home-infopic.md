@@ -1,11 +1,11 @@
 ---
 title: Information Section with Picture
-permalink: /page-components/home/infopic/
+permalink: /configuration/home/infopic/
 third_nav_title: Home Page
 ---
-Similar to the [information section](/page-components/home/infobar/), the information section with picture (`infopic`) can be used to provide additional information to users, and also serves as another opportunity to direct users to pages of interest. The photo and text will be placed side by side (horizontally), and the order will alternate with each successive infopic.
+Similar to the [information section](/configuration/home/infobar/), the information section with picture (`infopic`) can be used to provide additional information to users, and also serves as another opportunity to direct users to pages of interest. The photo and text will be placed side by side (horizontally), and the order will alternate with each successive infopic.
 
-As the background also alternates between white and a subdued shade of blue, we strongly recommend that the whitespace background, if any, be made transparent instead of white or any other colour. The PNG file format supports transparent backgrounds. You may follow [these instructions](https://go.gov.sg/k9m2bc) to edit your image to have a transparent background.
+As the background also alternates between white and a subdued shade of blue, we strongly recommend that the whitespace background, if any, be made transparent instead of white or any other color. The PNG file format supports transparent backgrounds. You may follow [these instructions](https://go.gov.sg/k9m2bc) to edit your image to have a transparent background.
 
 The configuration options available are:
 
@@ -19,7 +19,7 @@ The configuration options available are:
 
 * `url`: the URL the link points to. *Optional together with `link`*
 
-* `image`: the path to the image to be displayed in this section. Note that this image is compulsory. If you do not intend to use an image, use the [infobar](/page-components/home/infobar/) instead
+* `image`: the path to the image to be displayed in this section. Note that this image is compulsory. If you do not intend to use an image, use the [infobar](/configuration/home/infobar/) instead
 
 * `alt`: a description of what is in the image. Screen readers used by people with visual impairments will read this text aloud, allowing them to understand more fully what is on your site. Hence, to maintain a high standard of accessibility, this field is compulsory
 

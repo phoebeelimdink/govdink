@@ -1,6 +1,6 @@
 ---
 title: Sample Configuration
-permalink: /page-components/home/sample-config/
+permalink: /configuration/home/sample-config/
 third_nav_title: Home Page
 ---
 This is a full sample configuration for a home page, integrating every section that has been covered. You may copy this configuration to your home page as a start, and edit the values accordingly.

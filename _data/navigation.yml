@@ -11,10 +11,8 @@ links:
     collection: getting-started
   - title: MARKDOWN
     collection: markdown
-  - title: PAGE COMPONENTS
-    collection: page-components
-  - title: ADVANCED SETTINGS
-    collection: advanced-settings
+  - title: CONFIGURATION
+    collection: configuration
   - title: FAQ
     url: /faq/
   - title: CONTACT US

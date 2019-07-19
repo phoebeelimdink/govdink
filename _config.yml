@@ -6,9 +6,7 @@ collections:
     output: true
   getting-started:
     output: true
-  page-components:
-    output: true
-  advanced-settings:
+  configuration:
     output: true
 
 favicon: /images/favicon-isomer.ico

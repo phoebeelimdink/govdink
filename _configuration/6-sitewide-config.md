@@ -1,6 +1,6 @@
 ---
 title: Sitewide Configuration
-permalink: /page-components/sitewide-config/
+permalink: /configuration/sitewide-config/
 ---
 Configuration options that applies to your entire site but are not part of a component such as the footer falls under `_config.yml`, located in the topmost folder of your site's repository.
 
@@ -12,9 +12,9 @@ The configuration options available are:
 
 * `url`: the production URL of your site, e.g. `https://www.abc.gov.sg`. This option is needed for features such as Facebook sharing to work properly
 
-* `collections`: a list of all collections on your site. Refer to the [collection configuration](/page-components/pages/leftnav/) for more details
+* `collections`: a list of all collections on your site. Refer to the [collection configuration](/configuration/pages/leftnav/) for more details
 
-* `resources_name`: the name of your resource room. Refer to the [resource room setup](/page-components/resources/setup/) for more details
+* `resources_name`: the name of your resource room. Refer to the [resource room setup](/configuration/resources/setup/) for more details
 
 * `favicon`: the path to the favicon that will appear on the browser window. This file must be in the `.ico` file format
 
@@ -26,7 +26,7 @@ The configuration options available are:
 
 * `is_government`: set to `false` for non-governmental sites. This will remove the Singapore Government masthead at the top of the site. Defaults to `true`. *Optional*
 
-* `future`: set to `true` to enable publishing of posts dated in the future. More details can be found in the instructions for [post configuration](/page-components/resources/posts/). *Optional*
+* `future`: set to `true` to enable publishing of posts dated in the future. More details can be found in the instructions for [post configuration](/configuration/resources/posts/). *Optional*
 
 Sample configuration (advanced Isomer-specific configuration have been omitted):
 

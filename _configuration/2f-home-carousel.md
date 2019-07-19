@@ -1,13 +1,13 @@
 ---
 title: Carousel
-permalink: /page-components/home/carousel/
+permalink: /configuration/home/carousel/
 third_nav_title: Home Page
 ---
 The carousel is a series of images and text that will rotate throughout the page. You can use this section to showcase various aspects of your agency, programs, or initiatives.
 
 However, we advise you to use this section judiciously and avoid adding too many images as they can increase they can more than double the page load time. To avoid overuse of the carousel section, we have made the decision to limit the number of carousels allowed on the home page to a maximum of one.
 
-The background alternates between cyan, sky blue, and red. Hence, we strongly recommend that the whitespace background, if any, be made transparent instead of white or any other colour. The PNG file format supports transparent backgrounds. You may follow [these instructions](https://go.gov.sg/k9m2bc) to edit your image to have a transparent background.
+The background alternates between cyan, sky blue, and red. Hence, we strongly recommend that the whitespace background, if any, be made transparent instead of white or any other color. The PNG file format supports transparent backgrounds. You may follow [these instructions](https://go.gov.sg/k9m2bc) to edit your image to have a transparent background.
 
 The carousel takes in a list of items. The configuration options available for each item are:
 

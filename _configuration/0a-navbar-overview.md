@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /page-components/navbar/overview/
+permalink: /configuration/navbar/overview/
 third_nav_title: Navigation Bar
 ---
 The navigation bar is the main menu that guides your site's visitors to the information they are looking for. Hence, it is important for your site to be structured logically, so that users can reach the information as quickly and easily as possible.

@@ -1,13 +1,13 @@
 ---
 title: Configuration
-permalink: /page-components/contact/config/
+permalink: /configuration/contact/config/
 third_nav_title: Contact Us
 ---
 The configuration options available are:
 
 * `layout`: this option must be set to `contact_us`
 
-* `title`:  the title of the page which will be visible in the browser window. Defaults to "Contact Us" if left unspecified. *Optional*
+* `title`:  the title of the page which will be visible in the browser window
 
 * `permalink`: the path to the page, e.g. `/contact-us/`. Except for slashes denoting a category, the permalink should be alphanumeric (consisting only of letters, numbers, and dashes). No special characters such as `?` or `%` should be used. For aesthetic reasons, we further recommend that you avoid the use of capital letters
 
@@ -36,6 +36,7 @@ Sample configuration of a contact us page:
 ```yml
 ---
 layout: contact_us
+title: Contact Us
 permalink: /contact-us/
 agency_name: Ministry of ABC
 image: /images/contact-us.png

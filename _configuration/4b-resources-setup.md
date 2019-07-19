@@ -1,6 +1,6 @@
 ---
 title: Setup
-permalink: /page-components/resources/setup/
+permalink: /configuration/resources/setup/
 third_nav_title: Resource Room
 ---
 If you have provided us with a sitemap, the setup of the resource room and its categories would have been completed for you. However, if you would like to create new categories or edit/rename existing ones, then you should refer to the following instructions.
@@ -29,7 +29,7 @@ For each resource room category, create a folder inside the resource room folder
 
 2. Create a new folder named `_posts`
 
-If you would like a resource room section to appear on the home page, follow [these instructions](/page-components/home/resources/). For the navigation bar setup, refer to [these instructions](/page-components/navbar/configuration/).
+If you would like a resource room section to appear on the home page, follow [these instructions](/configuration/home/resources/). For the navigation bar setup, refer to [these instructions](/configuration/navbar/configuration/).
 
 Your resource room setup is now complete and you're ready to start writing posts for your resource room! The category will be visible and functional once you have at least one post in the category.
 

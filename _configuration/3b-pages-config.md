@@ -1,6 +1,6 @@
 ---
 title: Configuration
-permalink: /page-components/pages/config/
+permalink: /configuration/pages/config/
 third_nav_title: Content Pages
 ---
 The configuration for each page is located in the front matter, and the available configuration options are:

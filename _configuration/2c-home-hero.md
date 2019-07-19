@@ -1,6 +1,6 @@
 ---
 title: Hero Banner
-permalink: /page-components/home/hero/
+permalink: /configuration/home/hero/
 third_nav_title: Home Page
 ---
 The hero banner is the main banner on the home page. It includes a background, a call to action button or dropdown, as well as up to 4 key highlights (optional) that you can use to highlight pages and sites of importance.
