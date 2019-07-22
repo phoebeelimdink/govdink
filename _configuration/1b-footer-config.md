@@ -28,7 +28,9 @@ The footer configuration file is located at `_data/footer.yml` and consists of t
   * `instagram`
   * `linkedin`
 
-* `links`: a list of links to display in the footer, in the same format as that of the [navigation bar](/configuration/navbar/configuration/). *Optional*, defaults to the same list as the navigation bar if left unspecified. This option should only be used if there are links you do not wish to include in the footer, or additional links you want to include in the footer but not in the navigation bar. Note that links with titles "FAQ" or "Contact Us" are automatically removed as their links are placed separately in the footer (see above).
+* `navlinks`: a list of links to be displayed in the footer, in the same format as that of the [navigation bar](/configuration/navbar/configuration/). *Optional*, defaults to the same list as the navigation bar if left unspecified. This option should only be used if there are links you do not wish to include in the footer, or additional links you want to include in the footer but not in the navigation bar. Note that links with titles "FAQ" or "Contact Us" are automatically removed as their links are placed separately in the footer (see above).
+
+* `links`: a list of up to 2 additional custom links to be displayed in the bottom right of the footer, together with `contact_us`, etc. Takes a `title` and `url` for each link. *Optional*
 
 Optional fields can be omitted entirely if not needed.
 
@@ -48,7 +50,7 @@ social_media:
     youtube: https://www.youtube.com/YourYoutube
     instagram: https://www.instagram.com/your.insta/
     linkedin: https://www.linkedin.com/company/YourAgency
-links:
+navlinks:
   - title: Sample Collection
     collection: sample-collection
   - title: Resource Room
@@ -64,4 +66,7 @@ links:
         url: /some-page-b/
       - title: Subitem 3
         url: /some-page-c/
+links:
+  - title: Security
+    url: /security-disclosure/
 ```
