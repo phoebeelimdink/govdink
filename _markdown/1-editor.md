@@ -1,8 +1,10 @@
 ---
-title: Markdown Helper
-permalink: /documentation/markdown/markdown-helper/
-third_nav_title: "Markdown"
+title: Markdown Editor
+permalink: /markdown/editor/
 ---
+We have released a Markdown editor that shows you the result in real time as you type, accessible at <https://markdown.isomer.gov.sg/>{:target="_blank"}. You can use this editor to see the formatting of your page in real time as you type, or simply for additional Markdown practice.
+
+Need some inspiration? Check out these Markdown snippets!
 
 #### **Formatting your website content using Markdown**
 * [Setting font size for headers](https://markdown.isomer.gov.sg/#U1ZWVlbQ0gpOLSnJzEtXSMvPK1EozqxKBbKKFDJSE1NSi4q1tLi4lEHqHBWKcxNzcsAKUqCyXBCJ3NSUzNJcdBmgRFJmOpooyJjSgtQiDCkA){:target="_blank"}

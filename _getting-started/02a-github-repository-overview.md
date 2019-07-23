@@ -1,7 +1,6 @@
 ---
 title: Overview
-permalink: /documentation/github-repository/overview/
-third_nav_title: "Github Repository"
+permalink: /getting-started/github1/
 ---
 #### **Github Repository**
 Each Isomer website has a Github repository

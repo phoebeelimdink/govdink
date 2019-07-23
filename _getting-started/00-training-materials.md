@@ -1,6 +1,6 @@
 ---
 title: Training Materials
-permalink: /documentation/training-materials/
+permalink: /getting-started/training/
 ---
 
 #### **Basic concept about Isomer, Github, Markdown**

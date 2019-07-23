@@ -5,7 +5,7 @@ third_nav_title: Website Colors
 ---
 ![How to change the colors for your website](/images/resources/website-color-change.gif)
 
-The color is set in `misc/custom.scss`. You will find these 3 values in the file: `$primary`, `$secondary`, and `$secondary-hover`. Adjust the [hex codes](https://www.color-hex.com/) for these 3 values accordingly.
+The color is set in `misc/custom.scss`. You will find these 3 values in the file: `$primary`, `$secondary`, and `$secondary-hover`. Adjust the [hex codes](https://www.color-hex.com/) for these 3 values accordingly. Note that the semicolon (`;`) is required at the end of each line.
 
 Sample configuration:
 
