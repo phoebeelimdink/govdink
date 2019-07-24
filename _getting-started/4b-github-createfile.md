@@ -1,7 +1,7 @@
 ---
 title: Creating a file
 permalink: /documentation/github-repository/creating-a-file/
-third_nav_title: "Github Repository"
+third_nav_title: "GitHub"
 ---
 #### **Step-by-step guide to create a new file in your repository**
 ![Creating a new file in your repository](/images/resources/creating-a-new-file-in-your-repository.gif)

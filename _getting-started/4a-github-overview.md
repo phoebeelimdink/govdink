@@ -1,6 +1,7 @@
 ---
 title: Overview
 permalink: /getting-started/github1/
+third_nav_title: "GitHub"
 ---
 #### **Github Repository**
 Each Isomer website has a Github repository

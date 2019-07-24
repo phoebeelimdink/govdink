@@ -1,6 +1,7 @@
 ---
 title: Markdown Editor
-permalink: /markdown/editor/
+permalink: /getting-started/markdown/editor/
+third_nav_title: Markdown
 ---
 We have released a Markdown editor that shows you the result in real time as you type, accessible at <https://markdown.isomer.gov.sg/>{:target="_blank"}. You can use this editor to see the formatting of your page in real time as you type, or simply for additional Markdown practice.
 

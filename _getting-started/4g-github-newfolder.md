@@ -1,7 +1,7 @@
 ---
 title: Creating a new folder
 permalink: /github-repository/creating-a-new-folder/
-third_nav_title: "Github Repository"
+third_nav_title: "GitHub"
 ---
 #### **Step-by-step guide to create a new folder in your repository**
 ![Creating folder in your repository](/images/resources/creating-folder-in-your-repository.gif)

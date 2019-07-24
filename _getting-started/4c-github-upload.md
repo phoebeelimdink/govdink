@@ -1,7 +1,7 @@
 ---
 title: Uploading a file
 permalink: /documentation/github-repository/uploading-a-file/
-third_nav_title: "Github Repository"
+third_nav_title: "GitHub"
 ---
 #### **Step-by-step guide to upload a file to your repository**
 ![How to upload a file to your repository](/images/resources/how-to-upload-file-to-your-repository.gif)

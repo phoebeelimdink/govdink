@@ -9,8 +9,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: GETTING STARTED
     collection: getting-started
-  - title: MARKDOWN
-    collection: markdown
   - title: CONFIGURATION
     collection: configuration
   - title: FAQ

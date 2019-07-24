@@ -1,7 +1,7 @@
 ---
 title: Creating pull request
 permalink: /github-repository/creating-pull-request/
-third_nav_title: "Github Repository"
+third_nav_title: "GitHub"
 ---
 #### **Step-by-step guide to create pull request in your repository**
 ![Creating pull request](/images/resources/github-creating-pull-request.gif)

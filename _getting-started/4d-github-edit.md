@@ -1,7 +1,7 @@
 ---
 title: Editing a file
 permalink: /documentation/github-repository/editing-a-file/
-third_nav_title: "Github Repository"
+third_nav_title: "GitHub"
 ---
 #### **Step-by-step guide to edit a file in your repository**
 ![Editing a file in your repository](/images/resources/editing-file-to-your-repository.gif)
