@@ -1,9 +1,8 @@
 ---
 title: Deleting a file
-permalink: /documentation/github-repository/deleting-a-file/
+permalink: /getting-started/github/delete-file/
 third_nav_title: "GitHub"
 ---
-#### **Step-by-step guide to delete a file in your repository**
 ![Deleting a file in your repository](/images/resources/deleting-file-to-your-repository.gif)
 
 1. Select your "Staging" Branch

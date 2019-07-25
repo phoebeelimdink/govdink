@@ -1,9 +1,10 @@
 ---
 title: Creating pull request
-permalink: /github-repository/creating-pull-request/
+permalink: /getting-started/github/create-pull-request/
 third_nav_title: "GitHub"
 ---
-#### **Step-by-step guide to create pull request in your repository**
+On GitHub, we keep 2 separate copies of each site on 2 separate "branches" - `staging` and `master`. The staging branch is where you do your editing and preview your edits. Once you're ready for your edits to go live, you'll need to "copy" the staging branch to the master branch. This is done using what is known as a pull request.
+
 ![Creating pull request](/images/resources/github-creating-pull-request.gif)
 
 1. Select your "staging" branch

@@ -1,9 +1,8 @@
 ---
 title: Editing a file
-permalink: /documentation/github-repository/editing-a-file/
+permalink: /getting-started/github/edit-file/
 third_nav_title: "GitHub"
 ---
-#### **Step-by-step guide to edit a file in your repository**
 ![Editing a file in your repository](/images/resources/editing-file-to-your-repository.gif)
 
 1. Select your "Staging" Branch
