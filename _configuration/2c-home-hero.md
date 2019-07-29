@@ -3,6 +3,8 @@ title: Hero Banner
 permalink: /configuration/home/hero/
 third_nav_title: Home Page
 ---
+![Screenshot of the hero banner on the home page with the components labelled](/images/config/home-hero.png)
+
 The hero banner is the main banner on the home page. It includes a background, a call to action button or dropdown, as well as up to 4 key highlights (optional) that you can use to highlight pages and sites of importance.
 
 The background photo should only contain scenery, people, or a pattern. It should **not** contain any text as the image will automatically be resized to fit different devices, and text included may end up being cut off or blocked by other components on the page, drastically affecting the user experience on your site. Further more, text in images cannot be read by screen readers used by people with visual impairments, affecting the accessibilty of your site.

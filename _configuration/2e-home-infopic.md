@@ -3,6 +3,8 @@ title: Information Section with Picture
 permalink: /configuration/home/infopic/
 third_nav_title: Home Page
 ---
+![Screenshot of an information section with picture with componenets labelled](/images/config/home-infopic.png)
+
 Similar to the [information section](/configuration/home/infobar/), the information section with picture (`infopic`) can be used to provide additional information to users, and also serves as another opportunity to direct users to pages of interest. The photo and text will be placed side by side (horizontally), and the order will alternate with each successive infopic.
 
 As the background also alternates between white and a subdued shade of blue, we strongly recommend that the whitespace background, if any, be made transparent instead of white or any other color. The PNG file format supports transparent backgrounds. You may follow [these instructions](https://go.gov.sg/k9m2bc) to edit your image to have a transparent background.

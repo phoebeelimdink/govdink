@@ -3,6 +3,7 @@ title: Configuration
 permalink: /configuration/footer/config/
 third_nav_title: Footer
 ---
+![Screenshot and footer with its respective configuration labelled](/images/config/footer-labelled.png)
 
 The footer configuration file is located at `_data/footer.yml` and consists of the following configuration options:
 
@@ -43,13 +44,15 @@ feedback: https://form.gov.sg/#!/5a9ce876b3a3b6006e6b8335
 faq: /faq/
 privacy_policy: /privacy-policy/
 terms_of_use: /terms-of-use/
-copyright_agency: Your Agency Name
+copyright_agency: Open Government Products
 social_media:
     facebook: https://www.facebook.com/YourFBPage
     twitter: https://www.twitter.com/YourTwitter
     youtube: https://www.youtube.com/YourYoutube
     instagram: https://www.instagram.com/your.insta/
     linkedin: https://www.linkedin.com/company/YourAgency
+
+# If navlinks are the same as your navigation bar, you can omit this section entirely!
 navlinks:
   - title: Sample Collection
     collection: sample-collection
@@ -67,6 +70,6 @@ navlinks:
       - title: Subitem 3
         url: /some-page-c/
 links:
-  - title: Security
-    url: /security-disclosure/
+  - title: Google
+    url: https://www.google.com
 ```

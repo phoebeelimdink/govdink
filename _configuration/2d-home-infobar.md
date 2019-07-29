@@ -3,6 +3,8 @@ title: Information Section
 permalink: /configuration/home/infobar/
 third_nav_title: Home Page
 ---
+![Screenshot of infobar with components labelled](/images/config/home-infobar.png){:style="box-shadow: 5px 10px 8px #888888"}
+
 The information section, or `infobar`, can be used to provide additional information to users, and also serves as another opportunity to direct users to pages of interest. The infobar does not support images - if you require images, use [`infopic`](/configuration/home/infopic/) instead.
 
 The infobar consists of the following options:
@@ -24,6 +26,6 @@ Sample configuration for infobar:
     title: Work for the public good
     subtitle: Careers
     description: Start a fulfulling and rewarding career with the Ministry of ABC!
-    link: Join Us
+    button: Join Us
     url: /careers/
 ```

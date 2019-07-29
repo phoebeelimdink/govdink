@@ -3,6 +3,8 @@ title: Resource Room
 permalink: /configuration/home/resources/
 third_nav_title: Home Page
 ---
+![Screenshot of a resources section with components labelled](/images/config/home-resources.png)
+
 The resource room is an Isomer functionality that allows you to easily publish posts periodically, such as speeches and media releases. The resource room section will automatically feature the 3 latests posts on the home page.
 
 To prevent duplication, the number of resource room sections is limited to a maximum of 1. There will be a link that leads to the full resource room page where all posts can be accessed. The location of this link cannot be changed.

@@ -3,6 +3,8 @@ title: Basic Configuration
 permalink: /configuration/home/basic-config/
 third_nav_title: Home Page
 ---
+![Screenshot of homepage with notification labelled](/images/config/home-notification.png)
+
 The configuration of the home page all lies in what is known as the front matter (the YAML located between the set of triple dashes `---`). To get started, specify `layout: homepage` to let Isomer be aware that it is a home page instead of a normal page. This is required for the home page to work.
 
 The options available are:
@@ -13,7 +15,7 @@ The options available are:
 
 * `permalink`: the URL of the home page. In almost all cases, this value will be `/`
 
-* `notification`: a blue banner that will appear in the hero banner that can display any notification you would like to show users, such as urgent updates. The content here can be written in HTML. *Optional*
+* `notification`: a banner that will appear in the hero banner that can display any notification you would like to show users, such as urgent updates. The content here can be written in HTML. *Optional*
 
 * `sections`: a list of sections on the home page. Further details on the sections are covered in the following pages. You can refer to the sample configuration for the specific syntax of the configuration
 

@@ -23,7 +23,7 @@ sections:
         title: Work for the public good
         subtitle: Careers
         description: Start a fulfulling and rewarding career with the Ministry of ABC!
-        link: Join Us
+        button: Join Us
         url: /careers/
     - infopic:
         title: Integrity
@@ -62,3 +62,7 @@ sections:
         button: View More
 ---
 ```
+
+The above configuration will produce a home page similar to the following:
+
+![Full page screenshot of a home page](/images/config/home.png)

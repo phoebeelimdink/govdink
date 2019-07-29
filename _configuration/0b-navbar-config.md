@@ -3,6 +3,8 @@ title: Configuration
 permalink: /configuration/navbar/config/
 third_nav_title: Navigation Bar
 ---
+![Screenshot of a navigation bar with components labelled](/images/config/navbar-labelled.png)
+
 The navigation bar configuration file is `_data/navigation.yml` and has 2 elements to configure, `logo` and `links`:
 
 * `logo`: the path to the logo that will be located at the left of the navigation bar, e.g. `/images/logo.svg`. The logo size is adjusted dynamically by the user's browser, but we recommend a logo resolution of 170x50 pixels.
