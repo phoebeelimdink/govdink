@@ -3,6 +3,8 @@ title: Configuration
 permalink: /configuration/pages/config/
 third_nav_title: Content Pages
 ---
+![Screenshot of an Isomer page with components labelled](/images/config/page-labelled.png)
+
 The configuration for each page is located in the front matter, and the available configuration options are:
 
 * `title`: the title of the page which will be visible in the browser window

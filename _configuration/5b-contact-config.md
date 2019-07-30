@@ -68,3 +68,5 @@ contacts:
     - email: careers@abc.gov.sg
 ---
 ```
+
+![Screenshot of a contact us page with components labelled](/images/config/contact-us-labelled.png)

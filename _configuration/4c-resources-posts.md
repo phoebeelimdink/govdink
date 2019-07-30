@@ -3,6 +3,8 @@ title: Writing Posts
 permalink: /configuration/resources/posts/
 third_nav_title: Resource Room
 ---
+![Screenshot of a post with the date labelled](/images/config/post-labelled.png)
+
 To create a new resource room post, create a markdown file in the `_posts` folder of the category the post falls under. The file name must be prefixed with the post's publishing date in YYYY-MM-DD format, e.g. `2019-02-28-press-release-by-minister.md`. Posts dated in the future will not be published. Note that posts dated in the future will not automatically be published on the date either - they will only be published together with another edit on or after that date. To publish all posts, including those dated in the future, set `future: true` in `_config.yml`.
 
 > Note: Do not put spaces in the filename of your .md file. Always replace the spaces with dash (-)
