@@ -13,8 +13,6 @@ The configuration options available are:
 
 * `agency_name`: the text that will appear after "Get in touch with". Defaults to the `title` in `_config.yml` if left unspecified. *Optional*
 
-* `image`: an image that will be featured by social media platforms such as Facebook and WhatsApp if a user shares a link to the page. If specified, the image will also be displayed at the bottom of the page. *Optional*
-
 * `locations`: a list of addresses to be displayed. *Optional*. Each location supports the following configuration options:
 
   * `title`: the title or name of this location, e.g. "HQ"
@@ -39,7 +37,6 @@ layout: contact_us
 title: Contact Us
 permalink: /contact-us/
 agency_name: Ministry of ABC
-image: /images/contact-us.png
 locations:
   - title: Main Office
     address:
