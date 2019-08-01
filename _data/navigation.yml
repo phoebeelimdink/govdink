@@ -7,11 +7,13 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: GETTING STARTED
-    collection: getting-started
-  - title: CONFIGURATION
+  - title: Get Started
+    url: /get-started/
+  - title: Tutorial
+    collection: tutorial
+  - title: Configuration
     collection: configuration
   - title: FAQ
     url: /faq/
-  - title: CONTACT US
+  - title: Contact Us
     url: /contact-us/

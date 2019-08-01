@@ -2,9 +2,7 @@ title: Isomer
 url: "https://www.isomer.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
-  markdown:
-    output: true
-  getting-started:
+  tutorial:
     output: true
   configuration:
     output: true
