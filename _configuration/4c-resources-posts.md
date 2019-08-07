@@ -21,6 +21,12 @@ The configuration options available for posts are:
 
 * `description`: a short write up that will be featured by social media platforms such as Facebook and WhatsApp if a user shares a link to the page. *Optional*, defaults to the first 20 words on the page if omitted
 
+* `recommender`: if your site has the automatic recommender system enabled, you can set this value to `false` if you do not want automated recommendations to appear on this page. Defaults to `true` if unspecified. *Optional*
+
+* `breadcrumb`: the text on the breadcrumb link representing this page. *Optional*, defaults to the first 7 words in the title if left unspecified. All breadcrumb links will appear in all caps
+
+* `published`: you can set this value to `false` to hide the page from the generated site. Defaults to `true` if left unspecified. *Optional*
+
 Sample configuration of a post:
 
 ```yml

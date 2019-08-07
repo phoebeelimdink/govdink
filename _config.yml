@@ -33,5 +33,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
+baseurl: ""
 #twitter_username: jekyllrb
 #github_username:  jekyll
