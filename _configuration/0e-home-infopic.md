@@ -19,7 +19,7 @@ The configuration options available are:
 
 * `button`: the text on the link that will appear on the bottom. *Optional together with `url`*
 
-* `url`: the URL the link points to. *Optional together with `link`*
+* `url`: the URL the link points to. *Optional together with `button`*
 
 * `image`: the path to the image to be displayed in this section. Note that this image is compulsory. If you do not intend to use an image, use the [infobar](/configuration/home/infobar/) instead
 
