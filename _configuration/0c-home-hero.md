@@ -32,7 +32,7 @@ The configuration options available are:
 
   * `title`: the title of the key highlight
   * `description`: the subtitle/description of the key highlight. *Optional*
-  * `url`: the URL the key highlight links to
+  * `url`: the URL the key highlight links to *Optional*
 
 Sample configuration that includes a button without key highlights:
 

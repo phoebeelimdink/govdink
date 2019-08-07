@@ -17,7 +17,7 @@ The infobar consists of the following options:
 
 * `button`: the text on the link that will appear on the bottom on the infobar. *Optional together with `url`*
 
-* `url`: the URL the link points to. *Optional together with `link`*
+* `url`: the URL the link points to. *Optional together with `button`*
 
 Sample configuration for infobar:
 
