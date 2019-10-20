@@ -19,6 +19,15 @@ sections:
         background: /images/banner.png
         url: /contact-us/
         button: Contact
+        key_highlights:
+            - title: ABC services
+              description: Find out what ABC can do for you
+              url: /services/
+            - title: Our Annual Reports
+              url: /annual-reports/
+            - title: Join ABC
+              description: Unleash your passion and be rewarded with a fulfilling career!
+              url: /careers/
     - infobar:
         title: Work for the public good
         subtitle: Careers
