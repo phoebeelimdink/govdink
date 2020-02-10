@@ -26,7 +26,7 @@ To set up sentiments, go to **Manage Services** on your WOGAA portal and select 
 #### 2. Google Anlaytics
 Google Analytics is an free analytics tools provided by Google. You can go [here](https://accounts.google.com/) to sign up using your google account.
 
-To allow google to register your site traffic, please follow the following steps
+Next, follow the steps below to configure Google Analytics on your site:
 1. Go to your admin page, and under **Tracking Info**, select **Tracking Code**
 ![tracking code](/images/select-tracking-code.png)
 
