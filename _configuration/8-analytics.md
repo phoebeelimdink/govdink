@@ -11,7 +11,7 @@ You may have questions like these:
 - What content do my visitors like the most?
 
 To give you a better understanding of how your visitors are viewing your site, you need to set up analytics on your site.
-Here are two free analytics tools you can use to monitor the visitorship of your site. 
+Here are two free analytics tools you can use to help you answers the questions above. 
 
 #### 1. WOGAA
 WOGAA is a whole of government analytics platform. You can start signing up for it [here](https://wogaa.sg/login). 
