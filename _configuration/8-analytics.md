@@ -1,0 +1,35 @@
+---
+title: Analytics for your site
+permalink: /configuration/analytics/
+---
+
+## You've gotten my site up, now what?
+
+You may have questions like these:
+- How many people visit my website?
+- Where do my visitors live?
+- Which pages on my website are the most popular?
+- What content do my visitors like the most?
+
+To give you a better understanding of how your visitors are viewing your site, you need to set up analytics on your site.
+
+### 1. WOGAA
+WOGAA is a whole of government analytics platform. You can start signing up for it [here](https://wogaa.sg/login). 
+Go to **Manage Service** and click on **Add Service** button on the top right hand corner to get started.
+
+### Setting up Sentiments
+
+To set up sentiments, go to **Manage Services** and select **Manage Sentiments**. Follow the guides on the portal, you should be able to set it up with a quick toggle of the a button.
+
+### 2. Google Anlaytics
+Google Analytics is an free analytics tools provided by Google. You can go [here](https://accounts.google.com/) to sign up using your google account.
+
+To allow google to register your site traffic, please follow the following steps
+1. Go to your admin page, and under **Tracking Info**, select **Tracking Code**
+![tracking code](/images/select-tracking-code.png)
+
+2. Copy the **Tracking ID** on your Google Analytics
+![tracking ID](/images/tracking-id.png)
+
+3. Paste it on your **config.yml** file in your repository. You should create a field `google_analytics` if the file does not have this.
+![isomer ga](/images/isomer-ga.png)
