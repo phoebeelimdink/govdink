@@ -21,7 +21,7 @@ Go to **Manage Service** and click on **Add Service** button on the top right ha
 
 Sentiments is a tool for you to quickly gather feedback about your site from your visitors.
 
-To set up sentiments, go to **Manage Services** and select **Manage Sentiments**. Follow the guides on the portal, you should be able to set it up with a quick toggle of the a button.
+To set up sentiments, go to **Manage Services** on your WOGAA portal and select **Manage Sentiments**. Follow the step-by-step guide on the portal, you should be able to set it up with a quick toggle of a button.
 
 #### 2. Google Anlaytics
 Google Analytics is an free analytics tools provided by Google. You can go [here](https://accounts.google.com/) to sign up using your google account.
