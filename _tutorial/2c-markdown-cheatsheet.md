@@ -106,3 +106,9 @@ The above Markdown will produce:
 ![alt text - this is a description of what is in the image for people with visual impairments using screen readers](/images/sample-image.jpg)
 
 ![just like links, you can include titles which appear when hovered](/images/sample-image.jpg "Sample Image")
+
+### Videos
+
+To embed a video on your page, simply copy the iframe code from Youtube or Vimeo after you've uploaded your video, and paste it onto your page. 
+
+![image of iframe code on youtube](/images/video.png)
