@@ -5,6 +5,9 @@ third_nav_title: Markdown
 ---
 This is intended as a quick reference and showcase, to aid you as you draft your site's pages. If you're looking for something that isn't covered here, we encourage you to refer to other more comprehensive Markdown guides on the internet. If you still feel you need more assistance, feel free to reach out to us for help through Slack or email.
 
+[StackEdit](https://stackedit.io/app) is free online editor that you can use while you draft your pages.
+
+
 ### Text
 
 ```markdown
