@@ -16,6 +16,6 @@ links:
   - title: Isomer v2
     url: "https://v2.isomer.gov.sg"
   - title: Get started
-    url: /documentation/test/
+    collection: test
 #   - title: Contact us
 #     url: /contact-us/
