@@ -17,5 +17,8 @@ links:
     url: "https://v2.isomer.gov.sg"
   - title: Get started
     url: /get-started/
+    sublink:
+    - title: Get started
+      url: /get-started/
 #   - title: Contact us
 #     url: /contact-us/
