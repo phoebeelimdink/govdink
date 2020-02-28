@@ -7,6 +7,9 @@ collections:
     
   test:
     output: true
+  
+  who-we-are:
+    output: true
 
 favicon: /images/favicon-isomer.ico
 
