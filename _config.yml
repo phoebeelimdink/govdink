@@ -4,6 +4,9 @@ url: "https://www.isomer.gov.sg" # the base hostname & protocol for your site, e
 collections:
   documentation:
     output: true
+    
+  test:
+    output: true
 
 favicon: /images/favicon-isomer.ico
 
